@@ -1,4 +1,4 @@
-# peru_spatial_limits
+# Peru's spatial limits
 
 This repo contains Peru's spatial limits in four different resolutions (100%, 10%, 5%, 1%) developed using [mapshaper](https://mapshaper.org/).
 
@@ -12,4 +12,4 @@ provincia:
 - peru_provincia_{res}. 196 geographies
 
 distrito:
-- peru_distrito_{res}. 1,974 geographies
+- peru_distrito_{res}. 1,874 geographies
